@@ -1,0 +1,7 @@
+@import "bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import "datatables.net-bs5/css/dataTables.bootstrap5.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.scss";
+.container{
+    padding-top: 20px;
+}
